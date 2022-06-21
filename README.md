@@ -1,14 +1,18 @@
-To install required Packages use: pip install -r requirements.txt
+To install required Packages use:  
+		
+	pip install -r requirements.txt
 
-To run the program python mainwindow.py
+To run the program 	
+
+	python mainwindow.py
 
 Then openscreen will popup click on Attendance -> Start Detection. 
 
 To add your name and image for recognition: 
-
-	Add your image in ImagesAttendance and name it accordingly. 
-
-	Data and Time of checking in will be recorded in Attendance.csv
+    
+   Add your image in ImagesAttendance and name it accordingly.
+   
+   Data and Time of checking in will be recorded in Attendance.csv
 
 
 
